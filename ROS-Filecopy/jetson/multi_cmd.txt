@@ -1,0 +1,26 @@
+X3&A1
+ros2 launch yahboomcar_multi X3_A1_bringup_multi.launch.xml robot_name:=robot1
+ros2 launch yahboomcar_multi X3_amcl_robot1_launch.py
+ros2 launch yahboomcar_multi X3_nav_robot1_launch.py
+
+ros2 launch yahboomcar_multi X3_A1_bringup_multi.launch.xml robot_name:=robot2
+ros2 launch yahboomcar_multi X3_amcl_robot2_launch.py
+ros2 launch yahboomcar_multi X3_nav_robot2_launch.py
+
+R2&A1
+ros2 launch yahboomcar_multi R2_A1_bringup_multi.launch.xml robot_name:=robot1
+ros2 launch yahboomcar_multi R2_amcl_robot1_launch.py
+ros2 launch yahboomcar_multi R2_nav_robot1_launch.py
+
+ros2 launch yahboomcar_multi R2_A1_bringup_multi.launch.xml robot_name:=robot2
+ros2 launch yahboomcar_multi R2_amcl_robot2_launch.py
+ros2 launch yahboomcar_multi R2_nav_robot2_launch.py
+
+R2&4ROS
+ros2 launch yahboomcar_multi R2_4ROS_bringup_multi.launch.xml robot_name:=robot1
+ros2 launch yahboomcar_multi R2_amcl_robot1_launch.py
+ros2 launch yahboomcar_multi R2_nav_robot1_launch.py
+
+ros2 launch yahboomcar_multi R2_4ROS_bringup_multi.launch.xml robot_name:=robot2
+ros2 launch yahboomcar_multi R2_amcl_robot2_launch.py
+ros2 launch yahboomcar_multi R2_nav_robot2_launch.py

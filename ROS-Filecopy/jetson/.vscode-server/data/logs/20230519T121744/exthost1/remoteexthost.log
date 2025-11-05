@@ -1,0 +1,83 @@
+2023-05-19 12:17:47.036 [info] Extension host with pid 10705 started
+2023-05-19 12:17:47.161 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-19 12:17:47.282 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-19 12:17:47.283 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-19 12:17:47.843 [info] Eager extensions activated
+2023-05-19 12:17:47.845 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-19 12:17:47.847 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-19 12:20:20.831 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onView:dockerContainers'
+2023-05-19 12:20:21.991 [warning] Using default string since no string found in i18n bundle that has the key: No grouping
+2023-05-19 12:20:21.991 [warning] Using default string since no string found in i18n bundle that has the key: Sort by newest
+2023-05-19 12:20:21.991 [warning] Using default string since no string found in i18n bundle that has the key: Sort alphabetically by label
+2023-05-19 12:20:21.994 [warning] Using default string since no string found in i18n bundle that has the key: Value used to associate containers launched by a 'docker-compose up' command
+2023-05-19 12:20:21.994 [warning] Using default string since no string found in i18n bundle that has the key: Individual Containers
+2023-05-19 12:20:21.995 [warning] Using default string since no string found in i18n bundle that has the key: Others
+2023-05-19 12:20:21.998 [warning] Using default string since no string found in i18n bundle that has the key: Choose a project file
+2023-05-19 12:20:21.998 [warning] Using default string since no string found in i18n bundle that has the key: No C# or F# project files were found in the workspace.
+2023-05-19 12:20:21.998 [warning] Using default string since no string found in i18n bundle that has the key: Choose a package.json file
+2023-05-19 12:20:21.998 [warning] Using default string since no string found in i18n bundle that has the key: No package.json files were found in the workspace.
+2023-05-19 12:20:22.010 [warning] Using default string since no string found in i18n bundle that has the key: Overwrite File
+2023-05-19 12:20:22.011 [warning] Using default string since no string found in i18n bundle that has the key: Skip File
+2023-05-19 12:20:22.011 [warning] Using default string since no string found in i18n bundle that has the key: Cancel
+2023-05-19 12:20:22.024 [warning] Using default string since no string found in i18n bundle that has the key: Generic Docker Registry
+2023-05-19 12:20:22.024 [warning] Using default string since no string found in i18n bundle that has the key: (Preview)
+2023-05-19 12:20:22.024 [warning] Using default string since no string found in i18n bundle that has the key: Connect any generic private registry that supports the "Docker V2" api.
+2023-05-19 12:20:22.024 [warning] Using default string since no string found in i18n bundle that has the key: Connect Docker Registry
+2023-05-19 12:20:22.024 [warning] Using default string since no string found in i18n bundle that has the key: Enter the URL for the registry
+2023-05-19 12:20:22.026 [warning] Using default string since no string found in i18n bundle that has the key: Sign in to GitLab
+2023-05-19 12:20:22.026 [warning] Using default string since no string found in i18n bundle that has the key: GitLab Personal Access Token (requires `api` or `read_api` scope)
+2023-05-19 12:20:22.026 [warning] Using default string since no string found in i18n bundle that has the key: Sign in to Docker Hub
+2023-05-19 12:20:22.026 [warning] Using default string since no string found in i18n bundle that has the key: Visit hub.docker.com to sign up for a Docker ID
+2023-05-19 12:20:22.027 [warning] Using default string since no string found in i18n bundle that has the key: Enter your Docker ID
+2023-05-19 12:20:22.027 [warning] Using default string since no string found in i18n bundle that has the key: Enter your password or personal access token
+2023-05-19 12:20:22.067 [warning] Using default string since no string found in i18n bundle that has the key: Redis is an open source key-value store that functions as a data structure server.
+2023-05-19 12:20:22.067 [warning] Using default string since no string found in i18n bundle that has the key: Ubuntu is a Debian-based Linux operating system based on free software.
+2023-05-19 12:20:22.067 [warning] Using default string since no string found in i18n bundle that has the key: The WordPress rich content management system can utilize plugins, widgets, and themes.
+2023-05-19 12:20:22.067 [warning] Using default string since no string found in i18n bundle that has the key: MySQL is a widely used, open-source relational database management system (RDBMS).
+2023-05-19 12:20:22.068 [warning] Using default string since no string found in i18n bundle that has the key: MongoDB document databases provide high availability and easy scalability.
+2023-05-19 12:20:22.068 [warning] Using default string since no string found in i18n bundle that has the key: The official build of CentOS.
+2023-05-19 12:20:22.068 [warning] Using default string since no string found in i18n bundle that has the key: Node.js is a JavaScript-based platform for server-side and networking applications.
+2023-05-19 12:20:22.068 [warning] Using default string since no string found in i18n bundle that has the key: Official build of Nginx.
+2023-05-19 12:20:22.068 [warning] Using default string since no string found in i18n bundle that has the key: The PostgreSQL object-relational database system provides reliability and data integrity.
+2023-05-19 12:20:22.068 [warning] Using default string since no string found in i18n bundle that has the key: ASP.NET is an open source server-side Web application framework
+2023-05-19 12:20:22.256 [warning] Using default string since no string found in i18n bundle that has the key: Containers
+2023-05-19 12:20:22.256 [warning] Using default string since no string found in i18n bundle that has the key: Configure containers explorer
+2023-05-19 12:20:22.261 [warning] Using default string since no string found in i18n bundle that has the key: Networks
+2023-05-19 12:20:22.261 [warning] Using default string since no string found in i18n bundle that has the key: Configure networks explorer
+2023-05-19 12:20:22.263 [warning] Using default string since no string found in i18n bundle that has the key: Images
+2023-05-19 12:20:22.263 [warning] Using default string since no string found in i18n bundle that has the key: Configure images explorer
+2023-05-19 12:20:22.263 [warning] Using default string since no string found in i18n bundle that has the key: Sort by image size
+2023-05-19 12:20:22.265 [warning] Using default string since no string found in i18n bundle that has the key: Registries
+2023-05-19 12:20:22.265 [warning] Using default string since no string found in i18n bundle that has the key: Connected Registries
+2023-05-19 12:20:22.266 [warning] Using default string since no string found in i18n bundle that has the key: Volumes
+2023-05-19 12:20:22.266 [warning] Using default string since no string found in i18n bundle that has the key: Configure volumes explorer
+2023-05-19 12:20:22.268 [warning] Using default string since no string found in i18n bundle that has the key: Contexts
+2023-05-19 12:20:22.268 [warning] Using default string since no string found in i18n bundle that has the key: Configure Docker Contexts Explorer
+2023-05-19 12:20:22.699 [warning] Using default string since no string found in i18n bundle that has the key: Connect Registry...
+2023-05-19 12:20:22.705 [warning] Using default string since no string found in i18n bundle that has the key: Read Extension Documentation
+2023-05-19 12:20:22.706 [warning] Using default string since no string found in i18n bundle that has the key: Watch Extension Tutorial Videos
+2023-05-19 12:20:22.706 [warning] Using default string since no string found in i18n bundle that has the key: Get Started with Docker Tutorial
+2023-05-19 12:20:22.706 [warning] Using default string since no string found in i18n bundle that has the key: Open Docker Extension Walkthrough
+2023-05-19 12:20:22.706 [warning] Using default string since no string found in i18n bundle that has the key: Review Issues
+2023-05-19 12:20:22.707 [warning] Using default string since no string found in i18n bundle that has the key: Report Issue
+2023-05-19 12:20:22.707 [warning] Using default string since no string found in i18n bundle that has the key: Install Docker
+2023-05-19 12:20:24.772 [warning] Using default string since no string found in i18n bundle that has the key: Less than a minute
+2023-05-19 12:20:25.573 [warning] Using default string since no string found in i18n bundle that has the key: Files
+2023-05-19 12:21:26.829 [warning] Using default string since no string found in i18n bundle that has the key: Less than a minute
+2023-05-19 12:21:26.842 [warning] Using default string since no string found in i18n bundle that has the key: Files
+2023-05-19 12:22:34.757 [warning] Using default string since no string found in i18n bundle that has the key: Less than a minute
+2023-05-19 12:22:34.782 [warning] Using default string since no string found in i18n bundle that has the key: Files
+2023-05-19 12:22:35.486 [error] Error: connect ETIMEDOUT 20.189.173.2:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-05-19 12:23:24.207 [warning] Using default string since no string found in i18n bundle that has the key: Less than a minute
+2023-05-19 12:23:24.215 [warning] Using default string since no string found in i18n bundle that has the key: Files
+2023-05-19 12:24:24.143 [warning] Using default string since no string found in i18n bundle that has the key: Less than a minute
+2023-05-19 12:24:24.156 [warning] Using default string since no string found in i18n bundle that has the key: Files
+2023-05-19 12:25:23.978 [warning] Using default string since no string found in i18n bundle that has the key: Less than a minute
+2023-05-19 12:25:24.046 [warning] Using default string since no string found in i18n bundle that has the key: Files
+2023-05-19 12:26:24.103 [warning] Using default string since no string found in i18n bundle that has the key: Less than a minute
+2023-05-19 12:26:24.120 [warning] Using default string since no string found in i18n bundle that has the key: Files
+2023-05-19 12:27:24.382 [warning] Using default string since no string found in i18n bundle that has the key: Less than a minute
+2023-05-19 12:27:24.406 [warning] Using default string since no string found in i18n bundle that has the key: Files
+2023-05-19 12:28:24.686 [warning] Using default string since no string found in i18n bundle that has the key: Less than a minute
+2023-05-19 12:28:24.709 [warning] Using default string since no string found in i18n bundle that has the key: Files

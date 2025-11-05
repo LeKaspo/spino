@@ -1,0 +1,13 @@
+2023-05-19 12:17:44.202 [info] 
+
+
+
+
+2023-05-19 12:17:44.319 [info] Extension host agent started.
+2023-05-19 12:17:44.620 [info] [127.0.0.1][68bcf4c1][ExtensionHostConnection] New connection established.
+2023-05-19 12:17:44.623 [info] [127.0.0.1][dd1e83ab][ManagementConnection] New connection established.
+2023-05-19 12:17:44.731 [info] Deleted from disk ms-azuretools.vscode-docker /home/jetson/.vscode-server/extensions/ms-azuretools.vscode-docker-1.25.0
+2023-05-19 12:17:44.753 [info] [127.0.0.1][68bcf4c1][ExtensionHostConnection] <10705> Launched Extension Host Process.
+2023-05-19 12:19:57.696 [error] Error: connect ETIMEDOUT 52.182.141.63:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-05-19 12:22:44.340 [info] New EH opened, aborting shutdown

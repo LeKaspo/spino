@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=sh /home/jetson/Rosmaster-App/rosmaster/start_app.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=false
+Name[en_US]=ros-app
+Name=ros-app
+Comment[en_US]=ros-app
+Comment=ros-app

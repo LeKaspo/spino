@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=xrandr --fb 1920x1080
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Display
+Name=Display
+Comment[en_US]=
+Comment=

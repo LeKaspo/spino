@@ -1,0 +1,22 @@
+2023-05-18 09:54:22.041 [info] 
+
+
+
+
+2023-05-18 09:54:22.138 [info] Extension host agent started.
+2023-05-18 09:54:22.336 [info] [127.0.0.1][06959d41][ManagementConnection] New connection established.
+2023-05-18 09:54:22.431 [info] [127.0.0.1][6d90746c][ExtensionHostConnection] New connection established.
+2023-05-18 09:54:23.575 [info] [127.0.0.1][6d90746c][ExtensionHostConnection] <9014> Launched Extension Host Process.
+2023-05-18 09:54:45.676 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-05-18 09:54:45.828 [info] Installing extension: ms-azuretools.vscode-docker
+2023-05-18 09:54:52.102 [info] Extension signature is verified: ms-azuretools.vscode-docker
+2023-05-18 09:54:52.511 [info] Extracted extension to /home/jetson/.vscode-server/extensions/.316d1c1d-e4bc-44b5-88c3-5bfd1bdd67ec: ms-azuretools.vscode-docker
+2023-05-18 09:54:52.546 [info] Renamed to /home/jetson/.vscode-server/extensions/ms-azuretools.vscode-docker-1.25.1
+2023-05-18 09:54:52.573 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-05-18 09:54:52.593 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-05-18 09:54:52.633 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.25.0
+2023-05-18 09:55:15.658 [info] [127.0.0.1][06959d41][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-18 09:55:15.795 [info] [127.0.0.1][6d90746c][ExtensionHostConnection] <9014> Extension Host Process exited with code: 0, signal: null.
+2023-05-18 09:55:15.796 [info] Cancelling previous shutdown timeout
+2023-05-18 09:55:15.796 [info] Last EH closed, waiting before shutting down
+2023-05-18 10:00:15.798 [info] Last EH closed, shutting down
